@@ -1,0 +1,54 @@
+{% extends "base.html" %}
+
+{% block pagetitle %}
+Home - Plant Disease Detection
+{% endblock pagetitle %}
+
+{% block body %}
+<div class="container py-5 text-white">
+    <div class="row align-items-center">
+        <div class="col-lg-6 text-center text-lg-start">
+            <h1 class="display-4 fw-bold" style="color: #F8F9FA;">🌱 Welcome to the Plant AI Engine</h1>
+            <p class="lead mt-3">
+                Empower your farming with AI-driven plant disease detection and personalized supplement solutions.
+                Upload leaf images, get instant diagnosis, and explore curated treatments — all in one platform.
+            </p>
+            <a href="/index"
+                class="btn btn-success btn-lg mt-4 px-4 py-2'"
+                style="background-color: #228B22; color: rgb(0, 0, 0); font-weight: 700;"
+                onmouseover="this.style.backgroundColor='#32CD32'"
+                onmouseout="this.style.backgroundColor='#32CD32'">
+                Try the AI Engine
+              </a>
+
+        </div>
+        <div class="col-lg-6 text-center mt-4 mt-lg-0">
+            <img src="{{ url_for('static', filename='plant_illustration.png') }}" class="img-fluid rounded-lg shadow" alt="Plant AI Illustration">
+        </div>
+    </div>
+</div>
+
+<div class="container my-5 text-white">
+    <div class="row text-center">
+        <div class="col-md-4">
+            <img src="https://cdn-icons-png.flaticon.com/128/257/257611.png" height="80">
+            <h4 class="mt-3 text-white">Upload Leaf Image</h4>
+            <p>Use our intelligent uploader to send an image for instant analysis.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="https://cdn-icons-png.flaticon.com/128/10655/10655642.png" height="80">
+            <h4 class="mt-3 text-white">Detect Disease</h4>
+            <p>Our AI model predicts the plant disease from the image you upload.</p>
+        </div>
+        <div class="col-md-4">
+            <img src="https://cdn-icons-png.flaticon.com/128/1330/1330483.png" height="80">
+            <h4 class="mt-3 text-white">Get Supplement Advice</h4>
+            <p>Explore supplements and treatments recommended based on diagnosis.</p>
+        </div>
+    </div>
+</div>
+
+<div class="text-center mb-5">
+    <h5 class="text-white">🌿 Helping you Grow Smarter 🌿</h5>
+</div>
+{% endblock body %}
