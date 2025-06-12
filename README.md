@@ -166,6 +166,14 @@ Visit in your browser:
 * Borrowing request functionality for tools and care items
 
 ---
+## 🙌 Show Your Support
+
+If you like this project:
+
+* ⭐ **Star the repository**
+* 🤝 **Follow on [GitHub](https://github.com/Chatur07)** and [LinkedIn](www.linkedin.com/in/vikhyat-chaturvedi-678308252)
+* 💬 Share feedback or contribute!
+---
 
 ## 📄 License
 
