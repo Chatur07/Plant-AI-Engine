@@ -29,21 +29,21 @@ Here are some previews of the Plant AI Engine interface in action:
   <tr>
     <td align="center">
       <b>🏠 Homepage</b><br>
-      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss1.png" width="300" alt="Homepage Screenshot"/>
+      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss1.png" width="600" alt="Homepage Screenshot"/>
     </td>
     <td align="center">
       <b>🔐 Login Page</b><br>
-      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss2.png" width="300" alt="Login Page Screenshot"/>
+      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss2.png" width="600" alt="Login Page Screenshot"/>
     </td>
   </tr>
   <tr>
     <td align="center">
       <b>🤖 Disease Detection</b><br>
-      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss3.png" width="300" alt="Disease Detection Screenshot"/>
+      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss3.png" width="600" alt="Disease Detection Screenshot"/>
     </td>
     <td align="center">
       <b>🌿 Essentials Borrow</b><br>
-      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss4.png" width="300" alt="Borrow Essentials Screenshot"/>
+      <img src="https://github.com/Chatur07/Plant-AI-Engine/blob/main/demo_images/ss4.png" width="600" alt="Borrow Essentials Screenshot"/>
     </td>
   </tr>
 </table>
